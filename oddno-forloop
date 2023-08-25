@@ -1,6 +1,0 @@
-i=1;
-for ((i=1; i<=20; i=i+2))
-do
-echo "oddno: $i"
-done
-~
